@@ -16,7 +16,7 @@ nav_order: 2
 ## Basic Info
 {: .no_toc }
 SLAV 2500: Topics in Slavic Literature and Culture   
-Topic: Bits & Bytes - Exploring Vampires in Video Games   
+_Topic: Bits & Bytes: Exploring Vampires in Video Games_   
 Spring 2025 Semester   
 https://vampiregames.org   
 

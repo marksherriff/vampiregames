@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # SLAV 2500 - Spring 2025
-## Bits & Bytes - Exploring Vampires in Video Games
+## Bits & Bytes: Exploring Vampires in Video Games
 
 <img style="float: right;" src="/assets/images/250x300.png">
 
