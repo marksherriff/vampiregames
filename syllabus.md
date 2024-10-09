@@ -124,13 +124,18 @@ Game Design topic weeks:
 - Play Testing
 
 
-### Course Requirements
+## Course Requirements
 {: .no_toc }
 You should meet the following requirements to take this class:
 
 1. Be excited to learn about the history of vampires in video games!  
 2. Understand and accept the content warning above.  We will be discussing, reading about, and playing video games that deal with vampires, blood, mythical creatures, death, resurrection, etc.  If this makes you uncomfortable, you may wish to consider a different course.  We cannot make content accommodations for this course.
 3. No programming experience is required.  However, it is _highly_ recommended that you have some exposure with some basic programming concepts, such as variables, methods/functions, loops, and if/else statements.  Opportunities to learn these concepts will be made available as optional work.
+
+## How Will This Course Count?
+
+- BA in Computer Science Majors: This course has been approved as an Integration Elective.  You will have to submit a request after you have completed the course, but it will be automatically approved.
+- All Engineering Majors: This course counts as either a HSS Elective or an Unrestricted Elective.
 
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. As you learn more about vampires and video games, you will earn experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete other activities, you will earn XP.  
