@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marksherriff
 github_username:  marksherriff
+color_scheme: dark
 
 # Build settings
 # theme: "just-the-docs"
@@ -33,12 +34,12 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-logo: "/assets/images/cs3240-logo-200.png"
+logo: "/assets/images/400x400.png"
 
 # Aux links for the upper right navigation
-aux_links:
-  "CS 3240 Coursepack":
-    - "//www.cs3240.org"
+# aux_links:
+#   "CS 3240 Coursepack":
+#     - "//www.cs3240.org"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -69,6 +70,23 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  note:
+    title: note
+    color: purple
+  
+  example:
+    title: example
+    color: yellow
+
+  important:
+    title: IMPORTANT UPDATE
+    color: green
 
 # Exclude from processing.
 # The following items will not be processed, by default.

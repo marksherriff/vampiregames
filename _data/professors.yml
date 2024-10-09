@@ -1,14 +1,11 @@
-- name: Prof. Tom Horton
-  office: Rice 401
-  office_hours: "Mon. 2:00-3:30 pm; Tue. 10:15-11:00 am; Thu. 11:30 am-1:00 pm; Fri. 2:00-3:00 pm
-"
-  email: horton@virginia.edu
-  website: https://www.cs.virginia.edu/~horton/
+- name: Prof. Stanley Stephanic (Slavic Languages & Literatures)
+  office: New Cabell 259
+  office_hours: TBD
+  email: sjs2x@virginia.edu
 
-
-- name: Prof. Mark Sherriff
+- name: Prof. Mark Sherriff (Computer Science)
   office: Rice 400
-  office_hours: "Wednesdays 9:00-10:30 AM & Thursdays 12:30-2:00 PM"
+  office_hours: TBD
   email: sherriff@virginia.edu
   website: http://marksherriff.com
   github: marksherriff

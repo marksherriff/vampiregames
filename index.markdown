@@ -2,24 +2,21 @@
 layout: default
 title: Home
 nav_order: 1
-description: "CS 3240 - Software Engineering"
+description: "SLAV 2500: Bits & Bytes - Exploring Vampires in Video Games"
 permalink: /
 ---
 
-# CS 3240 - Fall 2024
-## Software Engineering
-_formerly known as Advanced Software Development Techniques_     
-Our course is structured around understanding the different aspects of the software development lifecycle.  During this course, students will learn to elicit and model software requirements, choose from various design options for a solution, implement a large software system in teams using a modified Scrum methodology, perform quality assurance, and learn about ethical and professional issues, such as diversity issues, how to handle data responsibly, and software licensing.
+# SLAV 2500 - Spring 2024
+## Bits & Bytes - Exploring Vampires in Video Games
 
-_NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education._
+<img style="float: right;" src="/assets/images/250x300.png">
 
-[Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
-[Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
+This class will explore the origins of the vampire in the world of video games and how original folklore, over time, was altered. This will include an overview of the vampire’s movement into popular culture from old belief, how it first entered video games, and the most culturally significant games starting in the late 1970s and entering the modern era.  Students will have the opportunity to explore both literature and video games to analyze how vampires and the lore surrounding them is represented and, through this, create a final portfolio that includes a literature and game review and a game they make themselves.
+
 [Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }
 [Canvas]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
-[GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
-## Lecture and Lab Sessions
+## Lecture
 {% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
 {% endfor %}   
 ## Staff Information
@@ -35,3 +32,6 @@ Website: [{{ professor.website }}]({{ professor.website }})
 {% endfor %}
 
 __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor %}  
+
+{: .warning }
+This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!

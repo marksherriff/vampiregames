@@ -2,6 +2,7 @@
 layout: default
 title: Project Information
 nav_order: 4
+nav_exclude: true
 ---
 
 # Team Project Information

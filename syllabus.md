@@ -15,11 +15,12 @@ nav_order: 2
 
 ## Basic Info
 {: .no_toc }
-Software Engineering     
-Fall 2024 Semester   
-https://f24.cs3240.org   
+SLAV 2500: Topics in Slavic Literature and Culture   
+Topic: Bits & Bytes - Exploring Vampires in Video Games   
+Spring 2024 Semester   
+https://vampiregames.org   
 
-## Lecture and Lab Sessions
+## Lecture
 {% for section in site.data.semesterinfo.lecture_sections %} {{ section }}    
 {% endfor %}   
 ## Staff Information
@@ -36,30 +37,15 @@ Website: [{{ professor.website }}]({{ professor.website }})
 
 __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor %}  
 
+{: .warning }
+This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!
+
 ## Communication and Logistics
 
 ### Textbook / Online Coursepack
 {: .no_toc }
 
-There is no official textbook for the course that you need to purchase.  We have our own online coursepack using the video content we created during COVID, which is available at [{{ site.data.externallinks.coursepack }}]({{ site.data.externallinks.coursepack }}).
-### Discord
-{: .no_toc }
-
-We will be using Discord for the following:
-
-* Online office hours (TAs)
-* Online team meetings and discussions
-* General project / course discussion
-* Off-topic channels for general discussion
-
-We will not be using Discord for:
-
-* Long-form project questions / help (use Piazza or go to office hours)
-* Reassessment of graded work (use Gradescope)
-* Direct messaging the staff about code questions, etc. (use Piazza)
-* Direct messaging the faculty about sensitive / grading issues (use private messages in Piazza or email)
-
-More information about joining our Discord server will be available in Canvas at the start of the semester.
+There is no official textbook for the course that you need to purchase.  We will make resources available to you during the semester.
 
 ### Piazza
 {: .no_toc }
@@ -75,7 +61,6 @@ We will be using Piazza for the following:
 We will not be using Piazza for:
 
 * Reassessment of graded work (use Gradescope)
-* Meme posting (use Discord :-) )
 
 ### Email
 {: .no_toc }
@@ -90,70 +75,75 @@ We will not be using email for:
 * Reassessment of graded work (use Gradescope)
 * Tech help (use Piazza)
 * Project questions (use Piazza)
-* Guided Practice questions (use Piazza)
 
-You should, in general, email the professor for the section that you are enrolled in.  _PLEASE_ make sure to put "CS 3240" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We all receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
+You should, in general, email the professor for the section that you are enrolled in.  _PLEASE_ make sure to put "SLAV 2500" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We all receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
 
 ### Where or who do I ask about...?
 {: .no_toc }
 
-* Team meetings -> Discord
-* Online office hours (TA) -> Discord
-* Technical questions (python, django, heroku, etc.) -> Piazza or TA office hours
+* Online office hours (TA) -> See Canvas for information
+* Technical questions -> Piazza, TA office hours, Prof. Sherriff's office hours
 * Project requirements -> Piazza or office hours
 * Reassessment of graded work -> Gradescope (office hours only if issues with Gradescope, such as a non-submission)
-* Personal issues -> Email your professor
-* Team issues -> Email your TA and/or your professor
-
-For the context of the project, you should consider the professor "upper management" and the TAs "senior developers / managers."  Thus, high-level, requirements-based, or course-management sort of questions should go to the professor, while all technical questions should to go the TAs.  (Honestly, you're probably going to get a faster, better answer to a Django question if you go to the TAs... sure, the professor can answer it... eventually... after a lot of Googling... but you could also ask a TA who did the project last semester or has been a TA for several semesters...)
+* Personal issues -> Email the professors
 
 ## Course Description
-Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. 
-
-_NOTE: This is the same CS 3240 course that has always been offered.  We have just updated the name to a more standard name that is used for this area of computer science research and education._
+This class will explore the origins of the vampire in the world of video games and how original folklore, over time, was altered. This will include an overview of the vampire’s movement into popular culture from old belief, how it first entered video games, and the most culturally significant games starting in the late 1970s and entering the modern era. Students will have the opportunity to explore both literature and video games to analyze how vampires and the lore surrounding them is represented and, through this, create a final portfolio that includes a literature and game review and a game they make themselves.
 
 ### Course Objectives
 {: .no_toc }   
 Upon completion of this course students will:
 
-* Develop an understanding of how to specify, design, and implement a complex software entity that involves many aspects of modern software systems. 
-* Master a number of modern tools and a number of difficult technical fields. 
-* Acquire experience of working on a large software system as a member of a team working on system development and as a member of a team that has to interact with other teams and customer representatives.
+- Explore the origins of the vampire in the world of video games and how original folklore, over time, was altered. This will include an overview of the vampire’s movement into popular culture from old belief, how it first entered video games, and the most culturally significant games starting in the late 1970s and entering the modern era.
+- Understand the basics of game development, particularly around concepts of world building and mental models.
+- Understand the "game loop," - the steps a game must take to update the screen at roughly 60 frames a second, including:
+  - Physics and collision detection
+  - Game AI
+  - Player input and control
+  - Basic drawing algorithms
+
 
 ### Course Topics
 {: .no_toc }    
 The topics to be covered in the course include:  
 
-* Software quality, including testing and inspections
-* Project management, scheduling, planning, with an emphasis on the Scrum agile method
-* Requirements elicitation, analysis and specification
-* Architecture and design principles
-* Security in the development of software applications
-* Programming and team-based development practices
-* Professional ethics
+Vampire topics:
+- What is the vampire? How did it enter popular culture?
+- Early PC and Console Vampires
+- The Castelvania Revolution
+- The Vampire of Video Games through the End of the 20th Century
+- The New Vampire for the New Century
+- Modern-Day Vampires in Video Games
+
+Game Design topic weeks:
+- What exactly is a “game?”  How is it different from other media?
+- World Building
+- The Game Loop
+- Collision Detection and Physics
+- Game AI
+- Play Testing
+
 
 ### Course Requirements
 {: .no_toc }
 You should meet the following requirements to take this class:
 
-1. __Prerequisite: CS 2150 --OR-- CS 3140 with a grade of C- or higher.__  Students that do not meet this prerequisite may be dropped at any point from the class.  It is the student's responsibility to check this prerequisite and/or speak with the instructor ASAP.
-2. Willing and able to attend in-person lectures.
-3. Be a meaningful contributor to your team project, which includes your team role responsibilities AND writing code that will be incorporated into the final version of the product.
-4. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to the staff as soon as possible!
+1. Be excited to learn about the history of vampires in video games!  
+2. Understand and accept the content warning above.  We will be discussing, reading about, and playing video games that deal with vampires, blood, mythical creatures, death, resurrection, etc.  If this makes you uncomfortable, you may wish to consider a different course.  We cannot make content accommodations for this course.
+3. No programming experience is required.  However, it is _highly_ recommended that you have some exposure with some basic programming concepts, such as variables, methods/functions, loops, and if/else statements.  Opportunities to learn these concepts will be made available as optional work.
 
 ## Assessment and Grading
-We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete Guided Practice (GP) activities, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+We will utilize a positive-reinforcement grading policy in this course. As you learn more about vampires and video games, you will earn experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete other activities, you will earn XP.  
 
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
-|Guided Practice |	Small Groups or Individual |	10 |	5 |	50 |
-|Team Role Document |	Individual |	1 |	100 |	100 |
-|Team & Staff Evaluation |	Individual |	1 |	100 |	100 |
-|Quizzes |	Individual |	3 |	100 |	300 |
-|Project Sprints |	Team |	6 |	25 |	150 |
-|Project (Beta Version) | Team | 1 | 100 | 100 |
-|Project (Final Version) |	Team |	1 |	150 |	150 |
-|Django Practice |	Individual |	1 |	50 |	50 |
+|Critical Analysis |  Individual |	1 |	150 |	150 |
+|Literature Review |	Individual |	1 |	150 |	150 |
+|Game Design Doc |	Team |	1 |	50 |	50 |
+|Random Encounters |	Individual |	10 |	5 |	50 |
+|Class Portfolio |	Team |	1 |	200 |	200 |
+|Game Project | Team | 1 | 200 | 200 |
+|Examx |	Individual |	2 |	100 |	200 |
 | __Total Course XP__ | | | | 1000 |
 
 | Letter Grade | XP Required |
@@ -174,19 +164,13 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest Guided Practice (GP) is converted to 5 XP (full points) at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
-* Due to the nature of most in-class GPs, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional GP is not going to have an outsized effect on your final grade.
-* Students that have to miss multiple GPs due to various reasons (e.g., sports team travel, SDAC accommodations) should talk to the professor as soon as possible.
-* Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
-* Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
-* There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
+* Your one lowest Random Encunter is converted to 5 XP (full points) at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
+* Due to the nature of most in-class Random Encounters, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional Random Encounter is not going to have an outsized effect on your final grade.
 * Students who miss a quiz due to a reason approved by a professor can make up the quiz only before it is returned to the class after it has been graded.  If it is not possible for a student to do this, they will be allowed to make up extra XP on the final exam for the missed quiz.
-* There are 6 sprints during the project.  At each sprint check, the TAs will determine if your team has met the requirements for the project up to that point.  (A sprint is a one- or two-week period of work on the project, and the sprint check happens at the end of that period to see if the goals of that sprint were met.)
 * We expect __all students__ to __fully participate__ in the coding of the project.  This includes:
   - Working successfully with other team members
-  - Attending team meetings (both with and without the TA)
-  - Collaborating on code with team members
-  - Committing working, meaningful code to the project on the main branch that makes it to the final version of the system (e.g. coding a feature of the system, not just fixing deployment issues or adding test cases)
+  - Attending team meetings
+  - Collaborating with team members
 * Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in Canvas so as to make the penalty clear to the staff and student.
 * _Failure to participate in the team project can result in automatically failing the course, regardless of other assessment scores._
 
@@ -205,9 +189,7 @@ You may request a reassessment of any graded work in this course, subject to the
 ### Final Exam and Project Demos
 {: .no_toc }
 
-__Final Exam:__ The final exam in this course is an opportunity to show mastery of material that was previously missed on earlier quizzes.  If a student has earned the maximum number of points on the three quizzes, they have a set of scores they are comfortable with, or if they already have an A in the course, the student does not (and should not) take the final exam.  If a student wishes to take the final exam, they can earn back up to 100 XP total toward the available 300 XP from quizzes.  We will create a custom final exam for each student based upon only the questions the student missed on the previous three quizzes.  While it is possible to lose points on the final exam, this is a relatively rare occurance, usually stemming from wild guessing on questions.  Students can come to either exam session, regardless of enrolled section.
-
-__Project Demos:__ If time allows at the end of the semester, student teams will demo their final project to a professor near the end of the semester.  All students are expected to attend the demo for their team.  Demos should only last around 20 minutes.  Students do not need to prepare anything for the demo (e.g. no slides, no presentation, etc.).  The team will walk the professor through the app and will answer various questions about its design and implementation.  More information will be shared in the final weeks of the semester once the schedule is finalized.
+_More info coming soon!_
 
 ## Class Management
 
@@ -217,15 +199,12 @@ You are expected to work as a member of your group in this course and cooperate 
 
 ### Attendance
 {: .no_toc }
-* No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
-* We do not plan to record lectures this semester to better encourage attendance and participation.  Recordings from previous semesters will be available for students who have to miss class.
-* Students should only attend the lecture section they have registered for due to room size restrictions.  
-* Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities _must_ be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
+* No attendance will be taken during the lectures sessions.  
+* We do not plan to record lectures this semester to better encourage attendance and participation.
 
 ### Late Policy
 {: .no_toc }
-* Late work grace periods are built into Gradescope where appropriate.  Further exceptions require professor approval.  
-* In general, late work will not be accepted - either for individual or group work.
+_TBD_
 
 ### This Syllabus
 {: .no_toc }
@@ -262,8 +241,6 @@ Students are expected to be familiar with the university honor code, including t
 
 Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee if that is appropriate. Students who have had prohibited collaborations may not be allowed to work with partners on remaining homeworks. 
 
-For CS 3240, using code developed by previous students in the course or code written for your use by someone outside the course is not allowed and will likely be an honor violation. This does not apply to the use of publicly available frameworks and libraries, unless indicated in the assessment instructions.
-
 In general, we expect that you will be using code, examples, and ideas from many different websites and resources for your projects.  This is allowed within reason.  Wholesale copying of an entire project or any major feature from any source (the web, another student, etc.) is definitely not allowed.  Using code snippts that you find to round out a feature is allowed.  If you ever have a question about what is or is not appropriate, ask first!
 
 In ALL cases, you need to cite all sources at the top of the file where the code or algorithm was used AND you should note all sources in your documentation.  Failure to properly attribute your sources will result in a 50% penalty for the project at a minimum.
@@ -289,9 +266,7 @@ Use the following general format as an example for citing code you use. You may 
 
 ## Policy on Use of Generative AI
 {: .no_toc }
-In general, we will treat the use of generative AI the same as we would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I make Google login work with Django?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  (NOTE: We actually asked ChatGPT the question above and it came back with a pretty good answer!  We suggest trying it!)  
-
-For artifact documents and other writing prompts, generative AI is discouraged and honestly won't be of too much help regardless.  While these tools can give you some impressive boilerplate text that would work for a generic presentation, it's not going to have the specific details of what your team had to do to make your project a success, and that's what we are specifically assessing.  So, if you lean too heavily on generative AI, your submission isn't going to earn much XP (if any) because we really don't want to read a bunch of generic "why is devops good" sort of text.  We care a lot more about how your team was impacted.
+_TBD_
 
 ## Miscellaneous Policies
 
@@ -301,9 +276,7 @@ If there is the possibility of inclement weather that could affect class, it is 
 
 ### SDAC / Students with Disabilities or other Learning Needs
 {: .no_toc }
-It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
-
-If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before a quiz so we can make accommodations.  For team related assessments, we cannot grant significant accommodations to deadlines for an entire team due to accommodations of individuals on the team. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion.  If you have modified attendance or modified deadlines, our general policy for in-class Guided Practice activities is to "do the best you can" with attendance and we can evaluate at the end of the semester if there is a need for adjustment.  We will not grant take-home versions of the in-class Guided Practices as they are meant for group discussion.  Guided Practices that are normally take-home assessments will be granted normal extensions.
+It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
@@ -323,31 +296,9 @@ Accommodations do not relieve you of the responsibility for completion of any pa
 {: .no_toc }
 Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in activities related to your career development. To that end, please notify your instructor by email as far in advance as possible to arrange for appropriate accommodations.
 
-### Student Support Team
-{: .no_toc }
-You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
-
-__NOTE:__ These resources are available for BACS majors as well!  You are still a part of our department!
-
-### Learning
-{: .no_toc }
-* [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
-* [Georgina Nembhard](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
-* [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
-* [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
-
-### Health and Wellbeing
-{: .no_toc }
-* [Kelly Garrett](mailto:mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support 
-* Elizabeth Ramirez-Weaver, CAPS counselor
-* Katie Fowler, CAPS counselor
-
-You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student or College student. You are also urged to use [TimelyCare](https://www.studenthealth.virginia.edu/timelycare) for either scheduled or on-demand 24/7 mental health care. 
-
 ### Community and Identity
 {: .no_toc }
 The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
-
 
 ### Harassment, Discrimination, and Interpersonal Violence
 {: .no_toc }
@@ -361,9 +312,4 @@ If you would prefer to disclose such conduct to a confidential resource where wh
 
 As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 
 
-
-## Frequently Asked Questions
-
-__Q: Can we pick our own teams?__   
-A: No.  There are solid, pedagogical reasons to have randomly assigned teams.  Also, the purpose of this class is to learn about how to work together with others on a project.  If you are already friends, then that negates that part of the learning objectives.
 
