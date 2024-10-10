@@ -33,5 +33,10 @@ Website: [{{ professor.website }}]({{ professor.website }})
 
 __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor %}  
 
+## How Does This Course Count?
+
+- BA in Computer Science Majors: Integration Elective
+- All Engineering Majors: HSS Elective or Unrestricted Elective
+
 {: .warning }
 This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!

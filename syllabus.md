@@ -133,7 +133,7 @@ You should meet the following requirements to take this class:
 3. No programming experience is required.  However, it is _highly_ recommended that you have some exposure with some basic programming concepts, such as variables, methods/functions, loops, and if/else statements.  Opportunities to learn these concepts will be made available as optional work.
 4. Students who have completed CS 4730: Computer Game Design can still take this course for credit.
 
-## How Will This Course Count?
+## How Does This Course Count?
 
 - BA in Computer Science Majors: This course has been approved as an Integration Elective.  You will have to submit a request after you have completed the course, but it will be automatically approved.
 - All Engineering Majors: This course counts as either a HSS Elective or an Unrestricted Elective.
