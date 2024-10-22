@@ -115,7 +115,7 @@ Vampire topics:
 - The New Vampire for the New Century
 - Modern-Day Vampires in Video Games
 
-Game Design topic weeks:
+Game Design topics:
 - What exactly is a “game?”  How is it different from other media?
 - World Building
 - The Game Loop
@@ -136,7 +136,9 @@ You should meet the following requirements to take this class:
 ## How Does This Course Count?
 
 - BA in Computer Science Majors: This course has been approved as an Integration Elective.  You will have to submit a request after you have completed the course, but it will be automatically approved.
+- Other College Majors: Check with your department, SIS, or Stellic.
 - All Engineering Majors: This course counts as either a HSS Elective or an Unrestricted Elective.
+- All Other Schools: Check with your school, SIS, or Stellic.
 
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. As you learn more about vampires and video games, you will earn experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete other activities, you will earn XP.  

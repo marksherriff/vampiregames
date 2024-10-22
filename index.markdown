@@ -35,8 +35,10 @@ __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor 
 
 ## How Does This Course Count?
 
-- BA in Computer Science Majors: Integration Elective
-- All Engineering Majors: HSS Elective or Unrestricted Elective
+- BA in Computer Science Majors: This course has been approved as an Integration Elective.  
+- Other College Majors: Check with your department, SIS, or Stellic.
+- All Engineering Majors: This course counts as either a HSS Elective or an Unrestricted Elective.
+- All Other Schools: Check with your school, SIS, or Stellic.
 
 {: .warning }
 This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!
