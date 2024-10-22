@@ -130,7 +130,7 @@ You should meet the following requirements to take this class:
 
 1. Be excited to learn about the history of vampires in video games!  
 2. Understand and accept the content warning above.  We will be discussing, reading about, and playing video games that deal with vampires, blood, mythical creatures, death, resurrection, etc.  If this makes you uncomfortable, you may wish to consider a different course.  We cannot make content accommodations for this course.
-3. No programming experience is required.  However, it is _highly_ recommended that you have some exposure with some basic programming concepts, such as variables, methods/functions, loops, and if/else statements.  Opportunities to learn these concepts will be made available as optional work.
+3. No programming experience is required.  However, it is recommended that you have some exposure with some basic programming concepts, such as variables, methods/functions, loops, and if/else statements.  Opportunities to learn these concepts will be made available as optional work.
 4. Students who have completed CS 4730: Computer Game Design can still take this course for credit.
 
 ## How Does This Course Count?
