@@ -13,7 +13,7 @@
   date: 01/20
   instructor: None
 
-- topic: TBD
+- topic: History of Game Industry / What is a game?
   type: lecture
   date: 01/22
   instructor: Sherriff
@@ -28,12 +28,12 @@
   date: 01/29
   instructor: Stepanic
 
-- topic: TBD
+- topic: Mechanics / Dynamics / Aesthetics
   type: lecture
   date: 02/03
   instructor: Sherriff
 
-- topic: TBD
+- topic: Formal Elements of Games
   type: lecture
   date: 02/05
   instructor: Sherriff
@@ -48,12 +48,12 @@
   date: 02/12
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Game Loop (Actions & Interactions)
   type: lecture
   date: 02/17
   instructor: Sherriff
 
-- topic: TBD
+- topic: The Game Loop (Collisions & AI)
   type: lecture
   date: 02/19
   instructor: Sherriff
@@ -68,12 +68,12 @@
   date: 02/26
   instructor: Stepanic
 
-- topic: TBD
+- topic: World Building
   type: lecture
   date: 03/03
   instructor: Sherriff
 
-- topic: TBD
+- topic: Character / Level Design
   type: lecture
   date: 03/05
   instructor: Sherriff
@@ -98,12 +98,12 @@
   date: 03/19
   instructor: Stepanic
 
-- topic: TBD
+- topic: Game Engines
   type: lecture
   date: 03/24
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Engines
   type: lecture
   date: 03/26
   instructor: Sherriff
@@ -118,12 +118,12 @@
   date: 04/02
   instructor: Stepanic
 
-- topic: TBD
+- topic: Prototyping Games
   type: lecture
   date: 04/07
   instructor: Sherriff
 
-- topic: TBD
+- topic: Prototyping Games
   type: lecture
   date: 04/09
   instructor: Sherriff
@@ -138,17 +138,17 @@
   date: 04/16
   instructor: Stepanic
 
-- topic: TBD
+- topic: Game Balancing
   type: lecture
   date: 04/21
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Balancing
   type: lecture
   date: 04/23
   instructor: Sherriff
 
-- topic: Class Review
+- topic: Game Expo!
   type: lecture
   date: 04/28
   instructor: Both
