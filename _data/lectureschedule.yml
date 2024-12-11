@@ -3,7 +3,7 @@
   date: 01/13
   instructor: Both
 
-- topic: TBD
+- topic: The Origins of the Vampire
   type: lecture
   date: 01/15
   instructor: Stepanic
@@ -18,12 +18,12 @@
   date: 01/22
   instructor: Sherriff
   
-- topic: TBD
+- topic: The Origins of the Media Vampire
   type: lecture
   date: 01/27
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Vampire Enters Video Games
   type: lecture
   date: 01/29
   instructor: Stepanic
@@ -38,12 +38,12 @@
   date: 02/05
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Analysis - Fixed Shooter and Text-Based Adventure
   type: lecture
   date: 02/10
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Vampire of the 8-Bit Era
   type: lecture
   date: 02/12
   instructor: Stepanic
@@ -58,12 +58,12 @@
   date: 02/19
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Analysis - 8-Bit Vampire Platformers
   type: lecture
   date: 02/24
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Vampire of the 16-Bit Era
   type: lecture
   date: 02/26
   instructor: Stepanic
@@ -88,12 +88,12 @@
   date: 03/12
   instructor: None
 
-- topic: TBD
+- topic: Game Analysis - 16-Bit Vampire Platformers
   type: lecture
   date: 03/17
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Vampire of the 3D Era
   type: lecture
   date: 03/19
   instructor: Stepanic
@@ -108,12 +108,12 @@
   date: 03/26
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Analysis - FPS (First-Person Shooters) and 3rd-Person
   type: lecture
   date: 03/31
   instructor: Stepanic
 
-- topic: TBD
+- topic: The Vampire of the Modern Era
   type: lecture
   date: 04/02
   instructor: Stepanic
@@ -128,12 +128,12 @@
   date: 04/09
   instructor: Sherriff
 
-- topic: TBD
+- topic: Game Analysis - Steam
   type: lecture
   date: 04/14
   instructor: Stepanic
 
-- topic: TBD
+- topic: Game Analysis - VR
   type: lecture
   date: 04/16
   instructor: Stepanic
@@ -148,12 +148,12 @@
   date: 04/23
   instructor: Sherriff
 
-- topic: Game Expo!
+- topic: Class Wrapup
   type: lecture
   date: 04/28
   instructor: Both
 
-- topic: Exam Session
+- topic: Game Expo! (during the exam period @ 2:00 PM)
   type: quiz
-  date: TBD
+  date: 05/03
   instructor: Both
