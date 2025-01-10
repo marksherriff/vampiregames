@@ -143,16 +143,16 @@ You should meet the following requirements to take this class:
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. As you learn more about vampires and video games, you will earn experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, and complete other activities, you will earn XP.  
 
-| Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
-|:--------------|:-----|:---|:-----|:-----|
-|Critical Analysis |  Individual |	1 |	150 |	150 |
-|Literature Review |	Individual |	1 |	150 |	150 |
-|Game Design Doc |	Team |	1 |	50 |	50 |
-|Random Encounters |	Individual |	10 |	5 |	50 |
-|Class Portfolio |	Team |	1 |	200 |	200 |
-|Game Project | Team | 1 | 200 | 200 |
-|Examx |	Individual |	2 |	100 |	200 |
-| __Total Course XP__ | | | | 1000 |
+
+| Assessment             | Who        | Max XP Avail |
+| :--------------------- | :--------- | :----------- |
+| Game Critical Analysis | Individual | 200          |
+| Literature Review      | Individual | 100          |
+| Game Engine Tutorial   | Individual | 100          |
+| Game Design Doc        | Team       | 50           |
+| Top Hat Activities     | Individual | 250          |
+| Game Project           | Team       | 300          |
+| __Total Course XP__    |            | 1000         |
 
 | Letter Grade | XP Required |
 | ------------ | ----------- |
