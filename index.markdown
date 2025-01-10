@@ -41,4 +41,4 @@ __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor 
 - All Other Schools: Check with your school, SIS, or Stellic.
 
 {: .warning }
-This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!
+This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you, it probably will!

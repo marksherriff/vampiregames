@@ -38,14 +38,15 @@ Website: [{{ professor.website }}]({{ professor.website }})
 __Teaching Assistants:__ {% for ta in site.data.tas %} {{ ta.name }}, {% endfor %}  
 
 {: .warning }
-This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you it probably will!
+This is a course on VAMPIRES. We will be discussing blood, corpses, death, murder, and all the things that make the human race interesting and terrifying! If you are concerned the content may disturb you, it probably will!
 
 ## Communication and Logistics
 
 ### Textbook / Online Coursepack
 {: .no_toc }
 
-There is no official textbook for the course that you need to purchase.  We will make resources available to you during the semester.
+* There is no official textbook for the course that you need to purchase.  We will make resources available to you during the semester.
+* We will be utilizing the Top Hat interactive platform for class slides, in-class participation questions, and pop quizzes.  More information on joining the Top Hat instance for the course will be available in Canvas.
 
 ### Piazza
 {: .no_toc }
@@ -58,30 +59,33 @@ We will be using Piazza for the following:
 * Private messages for faculty or the entire staff
 * A searchable repository of common questions in the course about the project, assignments, etc.
 
-We will not be using Piazza for:
-
-* Reassessment of graded work (use Gradescope)
-
 ### Email
 {: .no_toc }
 
 We will be using email for the following:
 
 * Personal issues that can and should only be handled by a professor
-* Team issues that need to be escalated beyond the TA
 
 We will not be using email for:
 
-* Reassessment of graded work (use Gradescope)
 * Tech help (use Piazza)
 * Project questions (use Piazza)
 
-You should, in general, email the professor for the section that you are enrolled in.  _PLEASE_ make sure to put "SLAV 2500" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We all receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
+_PLEASE_ make sure to put "SLAV 2500" in the subject line somewhere so we can keep track of your request!  And please be patient with us in responding.  We all receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let us know that as well.
+
+### GitHub
+{: .no_toc }
+
+Class GitHub Organization @ [{{ site.data.externallinks.github_organization }}]({{site.data.externallinks.github_organization}})
+
+Students with experience with source control management through GitHub are strongly encouraged to use the class GitHub organization.  Access will be made available before the first programming assignment.
+
+Students with no experience with source control management are welcome to learn, but it is not required.
 
 ### Where or who do I ask about...?
 {: .no_toc }
 
-* Online office hours (TA) -> See Canvas for information
+* Office hours (TAs and Professors) -> See Canvas for information
 * Technical questions -> Piazza, TA office hours, Prof. Sherriff's office hours
 * Project requirements -> Piazza or office hours
 * Reassessment of graded work -> Gradescope (office hours only if issues with Gradescope, such as a non-submission)
@@ -146,7 +150,7 @@ We will utilize a positive-reinforcement grading policy in this course. As you l
 
 | Assessment             | Who        | Max XP Avail |
 | :--------------------- | :--------- | :----------- |
-| Game Critical Analysis | Individual | 200          |
+| Game Critical Analyses | Individual | 200          |
 | Literature Review      | Individual | 100          |
 | Game Engine Tutorial   | Individual | 100          |
 | Game Design Doc        | Team       | 50           |
@@ -172,47 +176,11 @@ We will utilize a positive-reinforcement grading policy in this course. As you l
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest Random Encunter is converted to 5 XP (full points) at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
-* Due to the nature of most in-class Random Encounters, these cannot be made up if they are missed.  However, please note that these are relatively low-stakes and missing an additional Random Encounter is not going to have an outsized effect on your final grade.
-* Students who miss a quiz due to a reason approved by a professor can make up the quiz only before it is returned to the class after it has been graded.  If it is not possible for a student to do this, they will be allowed to make up extra XP on the final exam for the missed quiz.
-* We expect __all students__ to __fully participate__ in the coding of the project.  This includes:
-  - Working successfully with other team members
-  - Attending team meetings
-  - Collaborating with team members
-* Students who do not fully participate in the project per the information above will have XP _removed_ from various team-related scores, including the sprint scores, final team project score, and team evaluation score.  We do this because if the student did not fully participate, then that XP was not properly assigned because they gained no experience through the work.  Removing XP will be represented as a negative team evaluation score in Canvas so as to make the penalty clear to the staff and student.
-* _Failure to participate in the team project can result in automatically failing the course, regardless of other assessment scores._
-
-### Reassessment Policy
-{: .no_toc }
-You may request a reassessment of any graded work in this course, subject to the following conditions:
-
-- Students may only request the reassessment of returned coursework in writing via Gradescope. A verbal appeal is not appropriate and will not be accepted nor will requests made through other methods (e.g. email, office hours, etc.).  If a follow up is necessary, we will reach out to you to come to office hours to provide additional information. All reassessment requests will be handled by the instructors (except for programming assessments, such as Django Practice).
-- Reassessment requests will open 24 hours after grades are released and will close 7 days after a grade has been released.
-- Students must provide a written rationale for requesting reassessment, with specific reference to: the learning outcomes, assessment rubric, qualitative grade descriptors, and any feedback provided to you.
-- Reassessment requests that are based on feeling or hearsay rather than information indicated above will not be considered and no further reassessment may be made. Examples include: "I feel you graded this too harshly", "My friend did the same thing and got a better score", etc.
-- Students who submit an item for reassessment are advised that the entire work will may be reconsidered and that the result of the reassessment may be that the grade will increase, stay the same, or decrease accordingly.
-- Graded work may only be reassessed once -- you may not request reassessment a second time for the same item/problem and any changes to the grade made during reassessment will be final.
-
-
-### Final Exam and Project Demos
-{: .no_toc }
-
-_More info coming soon!_
+* Bits and Bytes is an interactive course. If you were signed up for the course before the first day of class, you will have received an email from Top Hat with instructions and a special code to utilize their app to join the course. This is REQUIRED to participate in the course. It gives you access to slides during class, as well as interactive questions that appear during lecture. Access can be with any device such as a smartphone, tablet, laptop, or PC, the last obviously only for home usage. There are NO outside texts to pay for; your payment is entirely processed by Top Hat or through Inclusive Access (if you’re using the latter). Lectures include questions that require your participation and are part of your grade. They involve points based on participation (meaning there is no correct answer) or in combination with correctness points.
+* Students will author three papers during this course: two critical analyses of video games that they have played that deal with vampires and one literature review of the origins and evolution of some aspect of vampyrism.
+* Students will build two games during this course: one small game to learn the game engine and a team project that will be the final project for the course.
 
 ## Class Management
-
-### Project Groups
-{: .no_toc }
-You are expected to work as a member of your group in this course and cooperate with your colleagues. Cooperation means attending group meetings, completing your assignments properly and on time, letting your group know if you will be out of contact, responding to e-mail from your group, and so on. If there is a lack of cooperation by any group member, it must be brought to the attention of the instructor as soon as it happens. If the lack of cooperation is serious, the offending group member’s semester grade will be lowered (see information above under Assessment).  _Note that this can result in a student automatically failing the course!_
-
-### Attendance
-{: .no_toc }
-* No attendance will be taken during the lectures sessions.  
-* We do not plan to record lectures this semester to better encourage attendance and participation.
-
-### Late Policy
-{: .no_toc }
-_TBD_
 
 ### This Syllabus
 {: .no_toc }
@@ -220,18 +188,17 @@ This syllabus is to be considered a reference document that can and will be adju
 
 ### Professionalism
 {: .no_toc }
-In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
+Students and staff are all expected to treat each other with respect.  This includes, but certainly is not limited to:
 
-* Proper use of class platforms (Discord, Piazza, YouTube comments, etc.)
+* Proper use of class platforms (Top Hat, Discord, Piazza, YouTube comments, etc.)
 * Respectful behavior in class (including extraneous internet browsing, social media, phone usage, etc.)
 * Respectful language or actions to course staff or other students
 * Promptness for all deadlines and class meetings
 * Quality work
 * Working well with your partners
 * Following the honor code and other collaboration policies
-* Following any University health and safety regulations
 
-Students can and will be penalized for unprofessional behavior.  This will be represented as a negative XP score on the Team/Staff Evaluation.
+Students can and will be penalized for unprofessional behavior.
 
 ## Academic Integrity
 _Summary_:
@@ -243,7 +210,7 @@ _Summary_:
 * More information on what is allowed will be included with each assignment if necessary
 * It never hurts to ask the staff what is allowed or not allowed!
 
-The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future. 
+We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future. 
 
 Students are expected to be familiar with the university honor code, including the section on academic fraud [http://honor.virginia.edu/academic-fraud](http://honor.virginia.edu/academic-fraud). Assessments will describe allowed collaborations, and deviations from these will be considered Honor violations. If you have questions on what is allowable, ask! Unless otherwise noted, all assessments will be considered pledged that you have neither given nor received help. (Among other things, this means that you are not allowed to describe problems on an exam, assignment, or project to a student who has not taken it yet. You are not allowed to show exam papers to another student or view another student’s exam papers while working on an exam.) Sending, receiving, or otherwise copying or describing the contents of electronic files that are part of course assignments are not allowed collaborations (except for those explicitly allowed in assignment instructions). 
 
@@ -253,28 +220,11 @@ In general, we expect that you will be using code, examples, and ideas from many
 
 In ALL cases, you need to cite all sources at the top of the file where the code or algorithm was used AND you should note all sources in your documentation.  Failure to properly attribute your sources will result in a 50% penalty for the project at a minimum.
 
-## How to Cite Code
-{: .no_toc }
-Use the following general format as an example for citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for.  Use the appropriate commenting format for the programming language of your source code.  Does yours have to look *exactly* like this?  No, it just has to have enough to give the proper credit and so we can find the resource if needed.
-
-```
-/***************************************************************************************
-*  REFERENCES
-*  Title: <title of program/source code>
-*  Author: <author(s) names>
-*  Date: <date>
-*  Code version: <code version>
-*  URL: <where it's located>
-*  Software License: <license software is released under>
-*
-*  Title: ....
-*
-***************************************************************************************/
-```
-
 ## Policy on Use of Generative AI
 {: .no_toc }
-_TBD_
+_With respect to the coding portions of this class:_ In general, we will treat the use of generative AI the same as we would a student asking for help on StackOverflow or finding other sources of code.  For coding questions (i.e. "How do I a sprite move left in Godot?"), students are welcome to use generative AI.  This includes tools such as ChatGPT, GitHub Copilot, and other code completion systems.  
+
+_With respect to the writing portions of this class:_ We care much more about your experiences with the literature and material than the opinion of an AI system.  Please refrain from using generative AI for the composition of creative written work in this course.  Use of AI for written assignments can result in a failure for the course.
 
 ## Miscellaneous Policies
 
@@ -304,10 +254,6 @@ Accommodations do not relieve you of the responsibility for completion of any pa
 {: .no_toc }
 Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in activities related to your career development. To that end, please notify your instructor by email as far in advance as possible to arrange for appropriate accommodations.
 
-### Community and Identity
-{: .no_toc }
-The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
-
 ### Harassment, Discrimination, and Interpersonal Violence
 {: .no_toc }
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available.  
@@ -319,5 +265,3 @@ If you witness or are aware of someone who has experienced prohibited conduct, y
 If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to [Counseling & Psychological Services (“CAPS”)](https://www.studenthealth.virginia.edu/caps) and [Women’s Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/confidential-advocates) (for students of all genders).  
 
 As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. 
-
-
