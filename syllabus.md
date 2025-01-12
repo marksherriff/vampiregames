@@ -182,6 +182,15 @@ We will utilize a positive-reinforcement grading policy in this course. As you l
 
 ## Class Management
 
+### Late Policy
+
+The following late policies apply to the specified assignments.
+
+- _Literature Review, Critical Analysis #1 and #2, Game Design Document, and Game Engine Tutorial:_ An extension of up to five calendar days may be requested for any reason by filling out the appropriate Google form with the assignment. No extensions will be given beyond what is requested through this form. SDAC students should use this form if they have modified deadlines to request their extension.
+- _Team Game Project:_ As the final major submission of the semester on the last day, no extensions can be granted automatically.  Teams that feel that will not make this deadline need to reach out to the professors as soon as possible.  Our most likely response will be "turn in what you have."
+- _Top Hat Activities:_ Students who miss class will inevitably miss some XP earned through Top Hat that day.  These points cannot be made up later, even if the class day was missed for a valid reason.  That said, these are low-stakes activities and there will be ample opportunities to earn the needed XP.  Students who miss only a couple days during the semester will have no problem earning enough XP. 
+
+
 ### This Syllabus
 {: .no_toc }
 This syllabus is to be considered a reference document that can and will be adjusted through the course of the semester to address changing needs. This syllabus can be changed at any time without notification. It is up to the student to monitor this page for any changes. Final authority on any decision in this course rests with the professor, not with this document.
@@ -235,6 +244,14 @@ If there is the possibility of inclement weather that could affect class, it is 
 ### SDAC / Students with Disabilities or other Learning Needs
 {: .no_toc }
 It is our goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. For general questions please visit the SDAC website: [sdac.studenthealth.virginia.edu](http://sdac.studenthealth.virginia.edu). 
+
+__Policies for Common Accommodations__
+
+- _Alternative Testing:_ As we will not have tests, quizzes, or exams in this course, the extended time do not apply.  If a student requires a reduced distraction environment in the classroom, they should speak with the professors about specific seating during lecture.  There will be in-class questions taken in Top Hat ranging from multiple choice to short paragraph in length.  Students who have issues completing these during the class session should reach out to the professors to discuss alternatives.
+- _Reasonable Modification of Assignment Deadlines:_ Students who have extended time for assignments should complete the extension forms found with all individual assignments in Canvas to have their extensions applied.  No further extensions will be granted beyond the five days allotted as this is already more than SDAC guidance indicates.
+- _Reasonable Modification of Course Attendance Policy:_ Students with this accommodation should inform the professor of a given missed lecture that they will be missing due to their accommodation via email so we can adjust points in Top Hat accordingly.  Please remember that the standard accommodation is 4 allotted absences.
+- _Notetaking:_ If there are students with the notetaking accommodation, we will announce to the class asking for volunteers.  We do not give extra credit for volunteer notetakers.  Once a notetaker volunteers has been identified, the process is passed off to SDAC and questions/concerns should be addressed to them.
+
 
 If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class.
 
